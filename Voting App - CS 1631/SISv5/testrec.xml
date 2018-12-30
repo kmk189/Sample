@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Msg>
+    <Item>
+        <Key>Sender</Key>
+        <Value>Test</Value>
+    </Item>
+    <Item>
+        <Key>Vote</Key>
+        <Value>1</Value>
+    </Item>
+    <Item>
+        <Key>Email</Key>
+        <Value>test@aol.com</Value>
+    </Item>
+    <Item>
+        <Key>Scope</Key>
+        <Value>SIS.Scope1</Value>
+    </Item>
+    <Item>
+        <Key>Purpose</Key>
+        <Value>Vote</Value>
+    </Item>
+    <Item>
+        <Key>Reciever</Key>
+        <Value>VotingApp</Value>
+    </Item>
+    <Item>
+        <Key>MessageType</Key>
+        <Value>Setting</Value>
+    </Item>
+</Msg>
